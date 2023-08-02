@@ -1,0 +1,76 @@
+{
+    "token": "",
+    "zone_id": "",
+    "your_domain": "",
+
+    "0-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "1-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "2-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "3-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "4-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "5-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "6-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "7-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "8-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    },
+    "9-tunnel": {
+        "name": "None",
+        "port": "None",
+        "domain": "None",
+        "protocol": "None",
+        "status": "Undefined"
+    }
+}    
